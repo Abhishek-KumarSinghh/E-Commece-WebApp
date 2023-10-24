@@ -1,5 +1,7 @@
 # E-Commece-WebApp
+
 It is a E-Commerce WebApp which allow user to buy products online.
+
 
 🔥 Features :
 
@@ -8,6 +10,8 @@ Secure Card Payments / Cash payments
 Admin Panel - Add/Edit Orders. Add/Edit Products
 Sorting, Filtering, and Pagination queries using Mongoose
 User Profile and user orders
+
+
 🔥 Technical Details :
 
 React 18 with Tailwind CSS
