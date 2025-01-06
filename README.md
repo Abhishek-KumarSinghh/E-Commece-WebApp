@@ -1,4 +1,4 @@
-# E-Commece-WebApp
+# E-Commerce-WebApp
 
 It is a E-Commerce WebApp which allow user to buy products online.
 
